@@ -4,6 +4,7 @@
 > - Gists
 > - Comments in Issues and Pull Requests
 > - Files with the .md or .markdown extension
+For more usage: [Markdown Guides](https://guides.github.com/features/mastering-markdown/)
 
 # 1st Title
 
@@ -13,7 +14,7 @@ Quote somebody:
 > Today is the Lantern Festival.
 
 Check lists:
-- Eat dumplings
-- Play games
-- Watch TV
+- [x] Eat dumplings
+- [x] Play games
+- [x] Watch TV
 
