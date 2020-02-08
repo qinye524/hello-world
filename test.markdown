@@ -4,7 +4,7 @@
 > - Gists
 > - Comments in Issues and Pull Requests
 > - Files with the .md or .markdown extension
-For more usage: [Markdown Guides](https://guides.github.com/features/mastering-markdown/)
+*For more usage: [Markdown Guides](https://guides.github.com/features/mastering-markdown/)*
 
 # 1st Title
 
@@ -15,6 +15,6 @@ Quote somebody:
 
 Check lists:
 - [x] Eat dumplings
-- [x] Play games
-- [x] Watch TV
+- [ ] Play games
+- [ ] Watch TV
 
