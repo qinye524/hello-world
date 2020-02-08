@@ -1,5 +1,5 @@
 # Test Markup
-*Remember to name your file extentions!*
+*Remember to name your **file extentions!***
 > You can use Markdown most places around GitHub:
 > - Gists
 > - Comments in Issues and Pull Requests
