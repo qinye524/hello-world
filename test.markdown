@@ -16,9 +16,7 @@ Check lists:
 - [ ] Play games
 - [ ] Watch TV
 
-### (2) Study MySQL
-
-Highlight codes :)
+### (2) Highlight codes :grin:
 
 ```python
 def foo():
